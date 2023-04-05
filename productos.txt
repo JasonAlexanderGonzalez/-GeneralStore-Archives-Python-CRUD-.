@@ -1,0 +1,6 @@
+0,pasta,tubo,45,78.0
+1,jabon,barra,74,547.0
+2,arroz,pilado,7842,1154.0
+3,panbom,bolsa,45,5471.0
+0,pan,1000,10,2200.0
+0,tmal,canasta,74,1254.0
